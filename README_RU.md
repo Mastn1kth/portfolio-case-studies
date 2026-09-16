@@ -8,7 +8,8 @@
 | --- | --- | --- | --- |
 | [Gory Staff](https://github.com/Mastn1kth/gory-staff) | Операционные процессы и лояльность ресторана | Expo React Native, Node.js, PostgreSQL, Socket.IO, iikoCloud, Twilio, OAuth | Публичный репозиторий |
 | AstraChat Onda | Realtime-мессенджер | React, Express, PostgreSQL, Redis, WebSocket, WebRTC, Capacitor, бэкапы и модерация | Исходники закрыты |
-| [LectureVault](https://github.com/Mastn1kth/lecturevault) | Запись лекций и конспекты | Android Kotlin, фоновая запись, Groq Whisper, Gemini, Obsidian, шифрование BYOK-ключей | Публичный репозиторий |
+| [LectureVault](https://github.com/Mastn1kth/lecturevault) | Кроссплатформенная запись лекций и конспекты | Клиенты Android, Windows, iOS и macOS; защищённый AI Gateway, облачная обработка по согласию, Obsidian vault, восстановление, мини-тесты и локальный Android fallback | Публичный репозиторий |
+| [Logisim Lab](https://github.com/Mastn1kth/logisim) | Обучение цифровой логике | Форк Logisim-evolution, Circuit Check / «Проверка схемы», русская локализация, Windows/macOS-сборки со встроенной Java | Публичный репозиторий; основан на open-source проекте |
 | [Goal Rings](https://github.com/Mastn1kth/goal-rings) | Трекер целей | Flutter, локальное хранение, уведомления, виджеты, offline fallback | Публичный репозиторий |
 | Clinic Pulse | Операционная PWA клиники | React, TypeScript, Cloudflare Workers/D1, роли, журнал аудита, бэкапы | Только описание |
 | [Pet Translator AI](https://github.com/Mastn1kth/pet-translator-ai) | Локальная обработка медиа животных | React Native, Expo, TFLite, работа с аудио и камерой, уведомления | Публичный репозиторий |
