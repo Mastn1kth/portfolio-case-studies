@@ -8,7 +8,7 @@ This catalog summarizes independently developed portfolio projects. Linked repos
 | --- | --- | --- | --- |
 | [Gory Staff](https://github.com/Mastn1kth/gory-staff) | Restaurant operations and loyalty | Expo React Native, Node.js, PostgreSQL, Socket.IO, iikoCloud, Twilio, OAuth | Public repository |
 | AstraChat Onda | Real-time messenger | React, Express, PostgreSQL, Redis, WebSocket, WebRTC, Capacitor, backups and moderation | Private source |
-| [LectureVault](https://github.com/Mastn1kth/lecturevault) | Cross-platform lecture recording and notes | Android, Windows, iOS and macOS clients; protected AI gateway, consent-controlled cloud processing, Obsidian vaults, recovery, mini-tests and local Android fallback | Public repository |
+| [LectureVault](https://github.com/Mastn1kth/lecturevault) | Cross-platform lecture recording and notes | Android, Windows, iOS and macOS clients; protected processing gateway, consent-controlled cloud processing, Obsidian vaults, recovery, mini-tests and local Android fallback | Public repository |
 | [Logisim Lab](https://github.com/Mastn1kth/logisim) | Digital logic education | Logisim-evolution fork, Circuit Check workflow, Russian localization, Windows/macOS packages with bundled Java | Public repository; based on upstream open source |
 | [Goal Rings](https://github.com/Mastn1kth/goal-rings) | Goal tracker | Flutter, local persistence, notifications, widgets, offline fallback | Public repository |
 | Clinic Pulse | Clinic operations PWA | React, TypeScript, Cloudflare Workers/D1, roles, audit history, backups | Case study only |
@@ -18,7 +18,7 @@ This catalog summarizes independently developed portfolio projects. Linked repos
 | AI Startup Radar | Startup research dashboard | FastAPI, React, PostgreSQL, Redis, Celery, Qdrant, Ollama, Docker | Case study only |
 | CultureMatch | Product prototype | React Native, Node.js, PostgreSQL/PostGIS, Socket.IO, OpenAPI | Case study only |
 | Peptide Tools | Calculation web product | Vite frontend, isolated Python API, Docker, CI smoke tests | Private source |
-| FPV Unreal prototype | Drone simulation | Unreal Engine C++, flight physics, AI, missions, HUD, saves | Case study only |
+| FPV Unreal prototype | Drone simulation | Unreal Engine C++, flight physics, behavior systems, missions, HUD, saves | Case study only |
 | Rocket Game | Strategy prototype | Unity, gameplay systems and project documentation | Case study only |
 | VPN Bot | Telegram automation | Python, aiogram, Docker, tests, environment-based configuration | Case study only |
 | Booking, city news and movie bots | Telegram workflows | Python automation, moderation, search and business-booking scenarios | Case study only |
@@ -29,7 +29,7 @@ This catalog summarizes independently developed portfolio projects. Linked repos
 - Full-stack and mobile delivery: interfaces, APIs, data models, integrations, deployment and testing.
 - Real-time systems: WebSocket, Socket.IO and WebRTC.
 - Privacy and operational reliability: roles, TOTP, encryption, rate limiting, backups, health checks and structured logging.
-- AI and media: Groq Whisper, Gemini, Ollama, TFLite, audio and video workflows.
+- Practical use of AI tools and media: Groq Whisper, Gemini, Ollama, TFLite, audio and video workflows.
 
 ## Public-source safety
 
